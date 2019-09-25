@@ -1,3 +1,7 @@
 1. Capitulo1: Introduccion a GIT
 2. Capitulo2: Flujo de trabajo
 3. Capitulo3: Repositorios remotos.
+4. Nueva Linea.
+5. Lineas add
+6. Repositorio Remoto
+
